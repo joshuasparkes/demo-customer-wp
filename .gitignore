@@ -1,0 +1,16 @@
+# WordPress core files
+wp-config.php
+
+# WordPress content directories
+wp-content/uploads/
+wp-content/upgrade/
+wp-content/cache/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite
